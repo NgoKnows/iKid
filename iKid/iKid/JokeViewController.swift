@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  JokeViewController.swift
 //  iKid
 //
 //  Created by Alex Ngo on 4/27/16.
@@ -8,8 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
-
+class JokeViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
